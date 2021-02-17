@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "371591986572",
+    "project_id": "sociofy-84a44",
+    "storage_bucket": "sociofy-84a44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371591986572:android:70f42022d11e4f0d86aaa9",
+        "android_client_info": {
+          "package_name": "com.example.sociofy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371591986572-9p67fu03tnf089dsh79vn1r52lut61h0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sociofy",
+            "certificate_hash": "6cc21cbe7f15ad9626170ded047b760db881abf8"
+          }
+        },
+        {
+          "client_id": "371591986572-ia5512sivfe64019r6gd2mh3rlskdvto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgnQJEk_7PbiPpVxlqy0ZlYvnThkDpySc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371591986572-ia5512sivfe64019r6gd2mh3rlskdvto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
